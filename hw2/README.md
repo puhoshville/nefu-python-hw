@@ -86,7 +86,7 @@
 ```
 Пример:
 Input: ["hello", "world", "hello", "my", "dear", "world", "hello"], k=3
-Output: ["hello", "world"]
+Output: ["hello", "world", "dear"]
 ```
     
 ```python
@@ -127,7 +127,7 @@ Input: nums  = [2, 7, 11, 15], target = 9,
 Output: [0, 1] (т.к. nums[0] + nums[1] == 9)
 ```  
 ```python
-def get_two_sum(nums, k):
+def get_two_sum(nums, t):
     pass
 ```
 
@@ -141,7 +141,7 @@ Input: nums  = [2, 7, 11, 15], target = 24,
 Output: [0, 1, 3] (т.к. nums[0] + nums[1] + nums[3] == 24)
 ```   
 ```python
-def get_three_sum(nums):
+def get_three_sum(nums, t):
     pass
 ```
 
