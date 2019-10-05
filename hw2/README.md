@@ -141,7 +141,7 @@ Input: nums  = [2, 7, 11, 15], target = 24,
 Output: [0, 1, 3] (т.к. nums[0] + nums[1] + nums[3] == 24)
 ```   
 ```python
-def get_three_sum(nums, t):
+def get_three_sum(nums, target):
     pass
 ```
 
