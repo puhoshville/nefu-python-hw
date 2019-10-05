@@ -127,7 +127,7 @@ Input: nums  = [2, 7, 11, 15], target = 9,
 Output: [0, 1] (т.к. nums[0] + nums[1] == 9)
 ```  
 ```python
-def get_two_sum(nums, t):
+def get_two_sum(nums, target):
     pass
 ```
 
