@@ -1,5 +1,5 @@
 # NEFU Python
-## HomeWork 3. Data structures!
+## HomeWork 3. map, filter, generators, decorators
 
 
 ### Task 1
